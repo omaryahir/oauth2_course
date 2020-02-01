@@ -1,7 +1,7 @@
 # OAuth2 + MEAN
 
-## FIRST PART  —> rest-api
 ***
+## FIRST PART  —> rest-api
 
 OAuth2 with Node and SQLite https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
 
