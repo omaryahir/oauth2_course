@@ -25,8 +25,6 @@ Unhandled rejection Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they
     at Promise._settlePromise0 (/Users/omaryahir/zrepos/oauth2_course/rest-api/node_modules/bluebird/js/release/promise.js:649:10)
     at Promise._settlePromises (/Users/omaryahir/zrepos/oauth2_course/rest-api/node_modules/bluebird/js/release/promise.js:729:18)
     at _drainQueueStep (/Users/omaryahir/zrepos/oauth2_course/rest-api/node_modules/bluebird/js/release/async.js:93:12)
-
-
 */
 
 const Sequelize = require('sequelize')
