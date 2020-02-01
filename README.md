@@ -20,8 +20,9 @@ Finale seems to be a replacement for Epilogue and it works properly with the exa
 
 I have to finish the course here because this was intended to use a special service called OKTA so I will try another option.
 
-## SECOND PART —> rest-api-oauth2
 ***
+## SECOND PART —> rest-api-oauth2
+
 
 https://blog.cloudboost.io/how-to-make-an-oauth-2-server-with-node-js-a6db02dc2ce7
 This course seems to be using a special library called node-oauth2-server.
@@ -30,11 +31,12 @@ This course seems to be using a special library called node-oauth2-server.
 
 
 
+
+***
 ## OAuth2 with Angular 
+Use this as reference: https://www.youtube.com/watch?v=AcuzemsJfxA
+
+
 ***
-use this as reference: https://www.youtube.com/watch?v=AcuzemsJfxA
-
-
 ## 2 Challenge — Normal Authentication with MEAN (Check this to transform the app to use MongoDB instead of sqlite)
-***
-https://www.youtube.com/watch?v=zclGgvQKmq4&list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G&index=4
+Consider this: https://www.youtube.com/watch?v=zclGgvQKmq4&list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G&index=4
